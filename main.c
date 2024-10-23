@@ -3,7 +3,7 @@
 
 int sum(int a, int b) {
     // TODO: Implement the sum function
-    return 0;
+    return a+b;
 }
 
 int main() {
